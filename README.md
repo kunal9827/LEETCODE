@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kunal9827/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/kunal9827/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kunal9827/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
+## String
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
