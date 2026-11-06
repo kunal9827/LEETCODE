@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kunal9827/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kunal9827/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/kunal9827/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunal9827/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/kunal9827/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
