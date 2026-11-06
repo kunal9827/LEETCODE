@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kunal9827/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kunal9827/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunal9827/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/kunal9827/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/kunal9827/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunal9827/LEETCODE/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
