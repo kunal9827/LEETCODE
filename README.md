@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kunal9827/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kunal9827/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kunal9827/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kunal9827/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kunal9827/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kunal9827/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kunal9827/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kunal9827/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunal9827/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kunal9827/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
