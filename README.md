@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/kunal9827/LEETCODE/tree/master/0091-decode-ways) |
 | [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kunal9827/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Recursion
 |  |
 | ------- |
