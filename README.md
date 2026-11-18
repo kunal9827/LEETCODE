@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/kunal9827/LEETCODE/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/kunal9827/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kunal9827/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kunal9827/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/kunal9827/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/kunal9827/LEETCODE/tree/master/0091-decode-ways) |
 | [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kunal9827/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kunal9827/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kunal9827/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
