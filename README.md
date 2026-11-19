@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/kunal9827/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/kunal9827/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/kunal9827/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/kunal9827/LEETCODE/tree/master/0091-decode-ways) |
 | [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/kunal9827/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
