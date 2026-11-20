@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/kunal9827/LEETCODE/tree/master/0018-4sum) |
 | [0057-insert-interval](https://github.com/kunal9827/LEETCODE/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/kunal9827/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/kunal9827/LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kunal9827/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kunal9827/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/kunal9827/LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kunal9827/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/kunal9827/LEETCODE/tree/master/0435-non-overlapping-intervals) |
