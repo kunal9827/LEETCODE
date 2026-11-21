@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kunal9827/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunal9827/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/kunal9827/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/kunal9827/LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kunal9827/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kunal9827/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/kunal9827/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunal9827/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/kunal9827/LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kunal9827/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kunal9827/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/kunal9827/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/kunal9827/LEETCODE/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/kunal9827/LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kunal9827/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/kunal9827/LEETCODE/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kunal9827/LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
