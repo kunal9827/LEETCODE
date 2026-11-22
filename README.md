@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/kunal9827/LEETCODE/tree/master/0018-4sum) |
+| [0046-permutations](https://github.com/kunal9827/LEETCODE/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/kunal9827/LEETCODE/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/kunal9827/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kunal9827/LEETCODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kunal9827/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
 ## Bit Manipulation
