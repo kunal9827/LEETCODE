@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/kunal9827/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/kunal9827/LEETCODE/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/kunal9827/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kunal9827/LEETCODE/tree/master/0621-task-scheduler) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kunal9827/LEETCODE/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/kunal9827/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kunal9827/LEETCODE/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kunal9827/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
