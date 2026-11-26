@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kunal9827/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunal9827/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/kunal9827/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/kunal9827/LEETCODE/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/kunal9827/LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kunal9827/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kunal9827/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kunal9827/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/kunal9827/LEETCODE/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kunal9827/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kunal9827/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/kunal9827/LEETCODE/tree/master/0542-01-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kunal9827/LEETCODE/tree/master/0146-lru-cache) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/kunal9827/LEETCODE/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
