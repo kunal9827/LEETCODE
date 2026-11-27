@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunal9827/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kunal9827/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/kunal9827/LEETCODE/tree/master/3360-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/kunal9827/LEETCODE/tree/master/0542-01-matrix) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/kunal9827/LEETCODE/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
