@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kunal9827/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kunal9827/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/kunal9827/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kunal9827/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunal9827/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kunal9827/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kunal9827/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kunal9827/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/kunal9827/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/kunal9827/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kunal9827/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/kunal9827/LEETCODE/tree/master/0542-01-matrix) |
@@ -209,9 +211,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/kunal9827/LEETCODE/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/kunal9827/LEETCODE/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/kunal9827/LEETCODE/tree/master/3360-stone-removal-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kunal9827/LEETCODE/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kunal9827/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
