@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kunal9827/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/kunal9827/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/kunal9827/LEETCODE/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/kunal9827/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kunal9827/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/kunal9827/LEETCODE/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kunal9827/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/kunal9827/LEETCODE/tree/master/0224-basic-calculator) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kunal9827/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/kunal9827/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kunal9827/LEETCODE/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/kunal9827/LEETCODE/tree/master/0091-decode-ways) |
